@@ -21,7 +21,7 @@ Currently, I'm working on projects involving **Intrusion Detection System for Io
 ---
 
 ## 📚 Featured Projects
-### 🔐 [Intrusion Detection System for IOT Devices](https://github.com/Sigmaog/iot-intrusion-detection)
+### 🔐 [Intrusion Detection System for IOT Devices](https://github.com/Sigmaog/Intrusion-Detection-System-For-Iot-Devices)
 > Machine Learning-based system to detect malicious activity in IoT devices.  
 > **Tech:** Python, Scikit-Learn, Random Forest, XGBOOST,Logistic Regression.
 
