@@ -21,15 +21,15 @@ Currently, I'm working on projects involving **Intrusion Detection System for Io
 ---
 
 ## 📚 Featured Projects
-### 🔐 [Intrusion Detection System for IOT Devices](https://github.com/sigma-og/iot-intrusion-detection)
+### 🔐 [Intrusion Detection System for IOT Devices](https://github.com/Sigmaog/iot-intrusion-detection)
 > Machine Learning-based system to detect malicious activity in IoT devices.  
 > **Tech:** Python, Scikit-Learn, Random Forest, XGBOOST,Logistic Regression.
 
-### ❤️ [Heart Disease Prediction Model](https://github.com/sigma-og/heart-disease-ml)
+### ❤️ [Heart Disease Prediction Model](https://github.com/Sigmaog/heart-disease-ml)
 > Predicts the presence of heart disease using medical dataset features.  
 > **Accuracy:** 88% | **Tech:** Logistic Regression, Random Forest
 
-### 🖼️ [Image Classification with CNN](https://github.com/sigma-og/image-classification)
+### 🖼️ [Image Classification with CNN](https://github.com/Sigmaog/image-classification)
 > Deep Learning model that classifies images into multiple categories using Convolutional Neural Networks.
 
 ---
