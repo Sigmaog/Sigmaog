@@ -16,7 +16,7 @@ Currently, I'm working on projects involving **Intrusion Detection System for Io
 - **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Deployment:** Flask, Streamlit, Bootstrap  
 - **Version Control:** Git, GitHub  
-- **Special Interests:** ML, DL,NLP,CV,Cybersecurity ,IoT Security, Anomaly Detection, Model Optimization
+- **Special Interests:** ML, DL, Cybersecurity, IoT Security, Anomaly Detection, Model Optimization
 
 ---
 
