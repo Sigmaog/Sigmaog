@@ -42,7 +42,7 @@ Currently, I'm working on projects involving **Intrusion Detection System for Io
 ---
 
 ## 🤝 Let's Connect
-📧 **Email:** anique296@gmail.com  
+📧 **Email:** aniquee.ai@gmail.com  
 🌍 **GitHub:** [github.com/Sigmaog](https://github.com/Sigmaog)
 
 ---
