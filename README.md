@@ -25,7 +25,7 @@ Currently, I'm working on projects involving **Intrusion Detection System for Io
 > Machine Learning-based system to detect malicious activity in IoT devices.  
 > **Tech:** Python, Scikit-Learn, Random Forest, XGBOOST,Logistic Regression.
 
-### ❤️ [Heart Disease Prediction Model](https://github.com/Sigmaog/heart-disease-ml)
+### ❤️ [Heart Disease Prediction Model](https://github.com/Sigmaog/Heart-Disease-Detection-Using-ML-Algorithms)
 > Predicts the presence of heart disease using medical dataset features.  
 > **Accuracy:** 88% | **Tech:** Logistic Regression, Random Forest
 
