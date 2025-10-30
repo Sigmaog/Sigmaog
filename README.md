@@ -27,7 +27,8 @@ Currently, I'm working on projects involving **Intrusion Detection System for Io
 
 ### ❤️ [Heart Disease Prediction Model](https://github.com/Sigmaog/Heart-Disease-Detection-Using-ML-Algorithms)
 > Predicts the presence of heart disease using medical dataset features.  
-> **Accuracy:** 88% | **Tech:** Logistic Regression, Random Forest
+> **Accuracy:** 82% | **Tech:** Logistic Regression, Random Forest, XGBOOST
+> Best Algorithm: Random Forest 
 
 ### 🖼️ [Image Classification with CNN](https://github.com/Sigmaog/image-classification)
 > Deep Learning model that classifies images into multiple categories using Convolutional Neural Networks.
